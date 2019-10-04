@@ -1,3 +1,9 @@
 # ideal-funicular
 PyConEs Ya se python ahora que
-lalala
+
+lalala... bob 
+
+
+
+# Changes
+lelelele...
